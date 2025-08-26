@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.Exercicio2;
 
 interface OperacoesMatematicas {
     double PI = 3.14;

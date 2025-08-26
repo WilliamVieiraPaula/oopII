@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.Exercicio1;
 
 public interface Animal {
     void emitirSom();

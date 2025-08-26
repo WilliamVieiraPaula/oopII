@@ -1,6 +1,6 @@
-package Desafio;
+package Desafio.Exercicio1;
 
-class Gato implements Animal {
+public class Gato implements Animal {
     public void emitirSom() {
         System.out.println("Gato: Miau!");
     }
